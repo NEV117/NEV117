@@ -1,6 +1,15 @@
 <h2 align="left">Hi 👋! My name is Nicolas</h2>
 
-###
+I'm currently working as an Infrastructure/Support Engineer, specializing in AWS Cloud and third-party technologies to build scalable, secure, and efficient systems.
+
+My main interest right now is **Infrastructure as Code (IaC)**, particularly **Terraform** and **CloudFormation**, for automating infrastructure provisioning and management. I believe adopting IaC not only enhances consistency and reliability but also empowers teams to innovate faster.
+
+In my free time, I enjoy expanding my knowledge and contributing to open-source projects. My GitHub showcases work that reflects my interests (most of it is private right now), including:
+
+- **Cloud Automation**: Projects using Terraform, CloudFormation, and CDK 🌩️  
+- **Backend Development**: Go and TypeScript applications for robust server-side solutions 🔧  
+- **AI and Machine Learning**: Integrating AI/ML models with scalable cloud systems 🤖  
+- **Cybersecurity Tools**: Ethical hacking experiments and security research 🔐  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nev117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
